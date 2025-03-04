@@ -89,3 +89,4 @@ D:\Edutrack_Login_Register\Edutrack_Login_Register\MVC\obj\Debug\net8.0\refint\M
 D:\Edutrack_Login_Register\Edutrack_Login_Register\MVC\obj\Debug\net8.0\MVC.pdb
 D:\Edutrack_Login_Register\Edutrack_Login_Register\MVC\obj\Debug\net8.0\MVC.genruntimeconfig.cache
 D:\Edutrack_Login_Register\Edutrack_Login_Register\MVC\obj\Debug\net8.0\ref\MVC.dll
+D:\Edutrack_Login_Register\Edutrack_Login_Register\MVC\obj\Debug\net8.0\MVC.sourcelink.json

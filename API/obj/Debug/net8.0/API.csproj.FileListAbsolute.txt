@@ -115,3 +115,4 @@ D:\Edutrack_Login_Register\Edutrack_Login_Register\API\obj\Debug\net8.0\scopedcs
 D:\Edutrack_Login_Register\Edutrack_Login_Register\API\obj\Debug\net8.0\API.csproj.Up2Date
 D:\Edutrack_Login_Register\Edutrack_Login_Register\API\obj\Debug\net8.0\API.genruntimeconfig.cache
 D:\Edutrack_Login_Register\Edutrack_Login_Register\API\obj\Debug\net8.0\ref\API.dll
+D:\Edutrack_Login_Register\Edutrack_Login_Register\API\obj\Debug\net8.0\API.sourcelink.json

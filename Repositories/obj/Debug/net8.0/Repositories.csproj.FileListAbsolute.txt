@@ -35,3 +35,4 @@ D:\Edutrack_Login_Register\Edutrack_Login_Register\Repositories\bin\Debug\net8.0
 D:\Edutrack_Login_Register\Edutrack_Login_Register\Repositories\bin\Debug\net8.0\Repositories.dll
 D:\Edutrack_Login_Register\Edutrack_Login_Register\Repositories\bin\Debug\net8.0\Repositories.pdb
 D:\Edutrack_Login_Register\Edutrack_Login_Register\Repositories\obj\Debug\net8.0\ref\Repositories.dll
+D:\Edutrack_Login_Register\Edutrack_Login_Register\Repositories\obj\Debug\net8.0\Repositories.sourcelink.json

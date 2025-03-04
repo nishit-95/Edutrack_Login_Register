@@ -133,6 +133,17 @@ namespace API.Controllers
             return Ok(contacts);
         }
 
+        [HttpGet("GetMaterialsByTeacher/{teacherId}")]
+        public async Task<IActionResult> GetMaterialsByTeacher(int teacherId)
+        {
+            var result = await _student.GetMaterialsByTeacherId(teacherId);
+
+            if (result.success)
+                return Ok(new { success = true, message = result.message, data = result.Item3 });
+
+            return NotFound(new { success = false, message = result.message });
+        }
+
 
     }
 

@@ -19,6 +19,7 @@ namespace Repositories.Interfaces
 
         Task<int> teacherFeedback(t_teacherFeedback feedback);
         Task<List<vm_subjectimetable>> GetTaskByClass(string classid);
+        Task<(bool success, string message, List<TeachingMaterial>)> GetMaterialsByTeacherId(int id);
 
     }
 }

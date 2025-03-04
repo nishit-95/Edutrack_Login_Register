@@ -278,6 +278,70 @@ namespace Repositories.Implementations
             return taskList;
         }
 
+        public async Task<(bool success, string message, List<TeachingMaterial>)> GetMaterialsByTeacherId(int id)
+        {
+            try
+            {
+
+                List<TeachingMaterial> materials = new List<TeachingMaterial>();
+                string query = @"
+                SELECT 
+                    tm.c_material_id, 
+                    tm.c_file_name, 
+                    tm.c_file_type, 
+                    tm.c_upload_date, 
+                    tm.c_subject_id, 
+                    tm.c_teacher_id, 
+                    tm.c_file_path, 
+                    u.c_userName AS teacher_name,
+                    s.c_subject_name 
+                FROM t_teaching_material tm
+                LEFT JOIN t_teacher t ON tm.c_teacher_id = t.c_teacher_id
+                LEFT JOIN t_user u ON t.c_user_id = u.c_user_id
+                LEFT JOIN t_subject s ON tm.c_subject_id = s.c_subject_id
+                WHERE tm.c_teacher_id = @TeacherId";
+                await _conn.OpenAsync();
+                using (var cmd = new NpgsqlCommand(query, _conn))
+                {
+                    cmd.Parameters.AddWithValue("@TeacherId", id);
+
+                    using (var reader = await cmd.ExecuteReaderAsync())
+                    {
+                        while (await reader.ReadAsync())
+                        {
+                            materials.Add(new TeachingMaterial
+                            {
+                                C_Material_Id = reader.GetInt32(0),
+                                C_File_Name = reader.GetString(1),
+                                C_File_Type = reader.GetString(2),
+                                C_Upload_Date = reader.GetDateTime(3),
+                                C_Subject_Id = reader.GetInt32(4),
+                                C_Teacher_Id = reader.GetInt32(5),
+                                C_File_Path = reader.GetString(6),
+                                c_Teacher_Name = reader.IsDBNull(7) ? null : reader.GetString(7),
+                                C_Subject_Name = reader.IsDBNull(8) ? null : reader.GetString(8)
+                            });
+                        }
+                    }
+                }
+                if (materials.Count > 0)
+                {
+                    return (true, "Materials retrieved successfully", materials);
+                }
+                return (false, "No materials found for the given teacher", new List<TeachingMaterial>());
+
+            }
+            catch (Exception ex)
+            {
+                return (false, "Error retrieving materials: " + ex.Message, new List<TeachingMaterial>());
+            }
+            finally
+            {
+                await _conn.CloseAsync();
+            }
+
+        }
+
 
 
 
