@@ -1,0 +1,91 @@
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\MVC\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\MVC\bin\Debug\net8.0\appsettings.json
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\MVC\bin\Debug\net8.0\MVC.staticwebassets.runtime.json
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\MVC\bin\Debug\net8.0\MVC.exe
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\MVC\bin\Debug\net8.0\MVC.deps.json
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\MVC\bin\Debug\net8.0\MVC.runtimeconfig.json
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\MVC\bin\Debug\net8.0\MVC.dll
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\MVC\bin\Debug\net8.0\MVC.pdb
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\MVC\obj\Debug\net8.0\MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\MVC\obj\Debug\net8.0\MVC.AssemblyInfoInputs.cache
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\MVC\obj\Debug\net8.0\MVC.AssemblyInfo.cs
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\MVC\obj\Debug\net8.0\MVC.csproj.CoreCompileInputs.cache
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\MVC\obj\Debug\net8.0\MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\MVC\obj\Debug\net8.0\MVC.RazorAssemblyInfo.cache
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\MVC\obj\Debug\net8.0\MVC.RazorAssemblyInfo.cs
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\MVC\obj\Debug\net8.0\MVC.sourcelink.json
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\MVC\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\MVC\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\MVC\obj\Debug\net8.0\staticwebassets\msbuild.MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\MVC\obj\Debug\net8.0\staticwebassets\msbuild.build.MVC.props
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\MVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MVC.props
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\MVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MVC.props
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\MVC\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\MVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\MVC\obj\Debug\net8.0\scopedcss\bundle\MVC.styles.css
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\MVC\obj\Debug\net8.0\scopedcss\projectbundle\MVC.bundle.scp.css
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\MVC\obj\Debug\net8.0\MVC.dll
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\MVC\obj\Debug\net8.0\refint\MVC.dll
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\MVC\obj\Debug\net8.0\MVC.pdb
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\MVC\obj\Debug\net8.0\MVC.genruntimeconfig.cache
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\MVC\obj\Debug\net8.0\ref\MVC.dll
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\MVC\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\MVC\bin\Debug\net8.0\appsettings.json
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\MVC\bin\Debug\net8.0\MVC.staticwebassets.runtime.json
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\MVC\bin\Debug\net8.0\MVC.exe
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\MVC\bin\Debug\net8.0\MVC.deps.json
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\MVC\bin\Debug\net8.0\MVC.runtimeconfig.json
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\MVC\bin\Debug\net8.0\MVC.dll
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\MVC\bin\Debug\net8.0\MVC.pdb
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\MVC\obj\Debug\net8.0\MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\MVC\obj\Debug\net8.0\MVC.AssemblyInfoInputs.cache
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\MVC\obj\Debug\net8.0\MVC.AssemblyInfo.cs
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\MVC\obj\Debug\net8.0\MVC.csproj.CoreCompileInputs.cache
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\MVC\obj\Debug\net8.0\MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\MVC\obj\Debug\net8.0\MVC.RazorAssemblyInfo.cache
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\MVC\obj\Debug\net8.0\MVC.RazorAssemblyInfo.cs
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\MVC\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\MVC\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\MVC\obj\Debug\net8.0\staticwebassets\msbuild.MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\MVC\obj\Debug\net8.0\staticwebassets\msbuild.build.MVC.props
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\MVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MVC.props
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\MVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MVC.props
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\MVC\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\MVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\MVC\obj\Debug\net8.0\scopedcss\bundle\MVC.styles.css
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\MVC\obj\Debug\net8.0\scopedcss\projectbundle\MVC.bundle.scp.css
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\MVC\obj\Debug\net8.0\MVC.dll
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\MVC\obj\Debug\net8.0\refint\MVC.dll
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\MVC\obj\Debug\net8.0\MVC.pdb
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\MVC\obj\Debug\net8.0\MVC.genruntimeconfig.cache
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\MVC\obj\Debug\net8.0\ref\MVC.dll
+D:\Edutrack_Login_Register\Edutrack_Login_Register\MVC\bin\Debug\net8.0\appsettings.Development.json
+D:\Edutrack_Login_Register\Edutrack_Login_Register\MVC\bin\Debug\net8.0\appsettings.json
+D:\Edutrack_Login_Register\Edutrack_Login_Register\MVC\bin\Debug\net8.0\MVC.staticwebassets.runtime.json
+D:\Edutrack_Login_Register\Edutrack_Login_Register\MVC\bin\Debug\net8.0\MVC.exe
+D:\Edutrack_Login_Register\Edutrack_Login_Register\MVC\bin\Debug\net8.0\MVC.deps.json
+D:\Edutrack_Login_Register\Edutrack_Login_Register\MVC\bin\Debug\net8.0\MVC.runtimeconfig.json
+D:\Edutrack_Login_Register\Edutrack_Login_Register\MVC\bin\Debug\net8.0\MVC.dll
+D:\Edutrack_Login_Register\Edutrack_Login_Register\MVC\bin\Debug\net8.0\MVC.pdb
+D:\Edutrack_Login_Register\Edutrack_Login_Register\MVC\obj\Debug\net8.0\MVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Edutrack_Login_Register\Edutrack_Login_Register\MVC\obj\Debug\net8.0\MVC.AssemblyInfoInputs.cache
+D:\Edutrack_Login_Register\Edutrack_Login_Register\MVC\obj\Debug\net8.0\MVC.AssemblyInfo.cs
+D:\Edutrack_Login_Register\Edutrack_Login_Register\MVC\obj\Debug\net8.0\MVC.csproj.CoreCompileInputs.cache
+D:\Edutrack_Login_Register\Edutrack_Login_Register\MVC\obj\Debug\net8.0\MVC.MvcApplicationPartsAssemblyInfo.cache
+D:\Edutrack_Login_Register\Edutrack_Login_Register\MVC\obj\Debug\net8.0\MVC.RazorAssemblyInfo.cache
+D:\Edutrack_Login_Register\Edutrack_Login_Register\MVC\obj\Debug\net8.0\MVC.RazorAssemblyInfo.cs
+D:\Edutrack_Login_Register\Edutrack_Login_Register\MVC\obj\Debug\net8.0\staticwebassets.build.json
+D:\Edutrack_Login_Register\Edutrack_Login_Register\MVC\obj\Debug\net8.0\staticwebassets.development.json
+D:\Edutrack_Login_Register\Edutrack_Login_Register\MVC\obj\Debug\net8.0\staticwebassets\msbuild.MVC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Edutrack_Login_Register\Edutrack_Login_Register\MVC\obj\Debug\net8.0\staticwebassets\msbuild.build.MVC.props
+D:\Edutrack_Login_Register\Edutrack_Login_Register\MVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MVC.props
+D:\Edutrack_Login_Register\Edutrack_Login_Register\MVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MVC.props
+D:\Edutrack_Login_Register\Edutrack_Login_Register\MVC\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Edutrack_Login_Register\Edutrack_Login_Register\MVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Edutrack_Login_Register\Edutrack_Login_Register\MVC\obj\Debug\net8.0\scopedcss\bundle\MVC.styles.css
+D:\Edutrack_Login_Register\Edutrack_Login_Register\MVC\obj\Debug\net8.0\scopedcss\projectbundle\MVC.bundle.scp.css
+D:\Edutrack_Login_Register\Edutrack_Login_Register\MVC\obj\Debug\net8.0\MVC.dll
+D:\Edutrack_Login_Register\Edutrack_Login_Register\MVC\obj\Debug\net8.0\refint\MVC.dll
+D:\Edutrack_Login_Register\Edutrack_Login_Register\MVC\obj\Debug\net8.0\MVC.pdb
+D:\Edutrack_Login_Register\Edutrack_Login_Register\MVC\obj\Debug\net8.0\MVC.genruntimeconfig.cache
+D:\Edutrack_Login_Register\Edutrack_Login_Register\MVC\obj\Debug\net8.0\ref\MVC.dll

@@ -1,0 +1,162 @@
+@{
+    ViewData["Title"] = "Update Profile";
+}
+
+<h2>@ViewData["Title"]</h2>
+<div id="alert" style="display:none">
+    <h6 id="message"></h6>
+</div>
+
+<form id="updateProfileForm"></form>
+
+@section Scripts {
+    <link rel="stylesheet" href="https://kendo.cdn.telerik.com/2021.2.616/styles/kendo.common.min.css" />
+    <link rel="stylesheet" href="https://kendo.cdn.telerik.com/2021.2.616/styles/kendo.default.min.css" />
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://kendo.cdn.telerik.com/2021.2.616/js/kendo.all.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            // Fetch existing teacher data
+            $.ajax({
+                url: "http://localhost:5113/api/Teacher/GetTeacher",
+                type: "GET",
+                xhrFields: {
+                    withCredentials: true
+                },
+                success: function (res) {
+                    if (res.success && res.data) {
+                        const teacher = res.data;
+                        initializeForm(teacher);
+                    } else {
+                        $("#alert").addClass("alert alert-danger").show();
+                        $("#message").text(res.message || "Failed to load teacher data.");
+                    }
+                },
+                error: function (error) {
+                    $("#alert").addClass("alert alert-danger").show();
+                    $("#message").text(error.responseJSON?.message || "An error occurred while fetching teacher data.");
+                }
+            });
+
+            // Function to initialize the Kendo Form
+            function initializeForm(teacherData) {
+                $("#updateProfileForm").kendoForm({
+                    formData: {
+                        C_phone: teacherData.c_phone || "",
+                        C_date: teacherData.c_date || "",
+                        C_qualification: teacherData.c_qualification || "",
+                        C_experience: teacherData.c_experience || 0,
+                        C_subjectExpertise: teacherData.c_subjectExpertise || ""
+                    },
+                    items: [
+                        {
+                            field: "C_phone",
+                            label: "Phone Number:",
+                            validation: { required: { message: "Phone number is required." } }
+                        },
+                        {
+                            field: "C_date",
+                            label: "Date:",
+                            validation: { required: { message: "Date is required." } },
+                            editor: function (container, options) {
+                                $("<input>", { name: options.field, required: "required" })
+                                    .appendTo(container)
+                                    .kendoDatePicker({
+                                        format: "yyyy-MM-dd",
+                                        parseFormats: ["yyyy-MM-dd"]
+                                    });
+                            }
+                        },
+                        {
+                            field: "C_qualification",
+                            label: "Qualification:",
+                            validation: { required: { message: "Qualification is required." } }
+                        },
+                        {
+                            field: "C_experience",
+                            label: "Experience (Years):",
+                            validation: {
+                                required: { message: "Experience is required." },
+                                min: { value: 0, message: "Experience cannot be negative." }
+                            },
+                            editor: function (container, options) {
+                                $("<input>", {
+                                    name: options.field,
+                                    type: "number",
+                                    min: 0,
+                                    required: "required",
+                                    class: "k-textbox"
+                                }).appendTo(container);
+                            }
+                        },
+                        {
+                            field: "C_subjectExpertise",
+                            label: "Subject Expertise:",
+                            validation: { required: { message: "Subject expertise is required." } }
+                        }
+                    ],
+                    buttonsTemplate: '<button type="submit" class="k-button k-primary">Update Profile</button>'
+                });
+
+                // Manually set values if formData doesn't work
+                $("input[name='C_phone']").val(teacherData.c_phone || "");
+                $("input[name='C_qualification']").val(teacherData.c_qualification || "");
+                $("input[name='C_experience']").val(teacherData.c_experience || 0);
+                $("input[name='C_subjectExpertise']").val(teacherData.c_subjectExpertise || "");
+
+                // Set DatePicker value explicitly
+                if (teacherData.c_date) {
+                    const datePicker = $("input[name='C_date']").data("kendoDatePicker");
+                    if (datePicker) {
+                        const parsedDate = new Date(teacherData.c_date);
+                        if (!isNaN(parsedDate)) {
+                            datePicker.value(parsedDate);
+                        }
+                    }
+                }
+
+                // Kendo Validator
+                var validator = $("#updateProfileForm").kendoValidator().data("kendoValidator");
+
+                $("#updateProfileForm").on("submit", function (e) {
+                    e.preventDefault();
+                    $("#alert").removeClass("alert alert-success alert-danger").hide();
+
+                    if (validator.validate()) {
+                        // Manually construct form data since values() isn’t available
+                        var formData = {
+                            C_phone: $("input[name='C_phone']").val(),
+                            C_date: $("input[name='C_date']").val(),
+                            C_qualification: $("input[name='C_qualification']").val(),
+                            C_experience: parseInt($("input[name='C_experience']").val()) || 0,
+                            C_subjectExpertise: $("input[name='C_subjectExpertise']").val()
+                        };
+
+                        $.ajax({
+                            url: "http://localhost:5113/api/Teacher/UpdateTeacher",
+                            type: "PUT",
+                            contentType: "application/json",
+                            data: JSON.stringify(formData),
+                            xhrFields: { withCredentials: true },
+                            success: function (res) {
+                                if (res.success) {
+                                    $("#alert").addClass("alert alert-success").show();
+                                    $("#message").text(res.message || "Profile updated successfully!");
+                                    setTimeout(() => { window.location.href = "/Home/Index"; }, 2000);
+                                } else {
+                                    $("#alert").addClass("alert alert-danger").show();
+                                    $("#message").text(res.message || "Failed to update profile.");
+                                }
+                            },
+                            error: function (error) {
+                                $("#alert").addClass("alert alert-danger").show();
+                                $("#message").text(error.responseJSON?.message || "An error occurred while updating the profile.");
+                            }
+                        });
+                    }
+                });
+            }
+        });
+    </script>
+}

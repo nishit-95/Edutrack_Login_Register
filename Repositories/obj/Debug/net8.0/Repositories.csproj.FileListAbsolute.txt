@@ -1,0 +1,37 @@
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\Repositories\bin\Debug\net8.0\Repositories.deps.json
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\Repositories\bin\Debug\net8.0\Repositories.dll
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\Repositories\bin\Debug\net8.0\Repositories.pdb
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\Repositories\obj\Debug\net8.0\Repositories.sourcelink.json
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\Repositories\obj\Debug\net8.0\Repositories.dll
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\Repositories\obj\Debug\net8.0\Repositories.pdb
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\Repositories\obj\Debug\net8.0\ref\Repositories.dll
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\Repositories\bin\Debug\net8.0\Repositories.deps.json
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\Repositories\bin\Debug\net8.0\Repositories.dll
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\Repositories\bin\Debug\net8.0\Repositories.pdb
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\Repositories\obj\Debug\net8.0\Repositories.dll
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\Repositories\obj\Debug\net8.0\Repositories.pdb
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\Repositories\obj\Debug\net8.0\ref\Repositories.dll
+D:\Edutrack_Login_Register\Edutrack_Login_Register\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+D:\Edutrack_Login_Register\Edutrack_Login_Register\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Edutrack_Login_Register\Edutrack_Login_Register\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+D:\Edutrack_Login_Register\Edutrack_Login_Register\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+D:\Edutrack_Login_Register\Edutrack_Login_Register\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+D:\Edutrack_Login_Register\Edutrack_Login_Register\Repositories\obj\Debug\net8.0\Repositories.dll
+D:\Edutrack_Login_Register\Edutrack_Login_Register\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+D:\Edutrack_Login_Register\Edutrack_Login_Register\Repositories\obj\Debug\net8.0\Repositories.pdb
+D:\Edutrack_Login_Register\Edutrack_Login_Register\Repositories\bin\Debug\net8.0\Repositories.deps.json
+D:\Edutrack_Login_Register\Edutrack_Login_Register\Repositories\bin\Debug\net8.0\Repositories.dll
+D:\Edutrack_Login_Register\Edutrack_Login_Register\Repositories\bin\Debug\net8.0\Repositories.pdb
+D:\Edutrack_Login_Register\Edutrack_Login_Register\Repositories\obj\Debug\net8.0\ref\Repositories.dll

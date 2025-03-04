@@ -1,0 +1,117 @@
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\API\bin\Debug\net8.0\appsettings.json
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\API\bin\Debug\net8.0\API.exe
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\API\bin\Debug\net8.0\API.deps.json
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\API\bin\Debug\net8.0\API.runtimeconfig.json
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\API\bin\Debug\net8.0\API.dll
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\API\bin\Debug\net8.0\API.pdb
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\API\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\API\bin\Debug\net8.0\Npgsql.dll
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\API\bin\Debug\net8.0\Repositories.dll
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\API\bin\Debug\net8.0\Repositories.pdb
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\API\obj\Debug\net8.0\API.csproj.AssemblyReference.cache
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\API\obj\Debug\net8.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\API\obj\Debug\net8.0\API.AssemblyInfoInputs.cache
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\API\obj\Debug\net8.0\API.AssemblyInfo.cs
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\API\obj\Debug\net8.0\API.csproj.CoreCompileInputs.cache
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\API\obj\Debug\net8.0\API.sourcelink.json
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\API\obj\Debug\net8.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\API\obj\Debug\net8.0\staticwebassets\msbuild.build.API.props
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\API\obj\Debug\net8.0\scopedcss\bundle\API.styles.css
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\API\obj\Debug\net8.0\API.csproj.Up2Date
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\API\obj\Debug\net8.0\API.dll
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\API\obj\Debug\net8.0\refint\API.dll
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\API\obj\Debug\net8.0\API.pdb
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\API\obj\Debug\net8.0\API.genruntimeconfig.cache
+C:\Users\harsh lakhani\Desktop\internship\Edutrack\API\obj\Debug\net8.0\ref\API.dll
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\API\bin\Debug\net8.0\appsettings.json
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\API\bin\Debug\net8.0\API.exe
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\API\bin\Debug\net8.0\API.deps.json
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\API\bin\Debug\net8.0\API.runtimeconfig.json
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\API\bin\Debug\net8.0\API.dll
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\API\bin\Debug\net8.0\API.pdb
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\API\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\API\bin\Debug\net8.0\Npgsql.dll
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\API\bin\Debug\net8.0\Repositories.dll
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\API\bin\Debug\net8.0\Repositories.pdb
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\API\obj\Debug\net8.0\API.csproj.AssemblyReference.cache
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\API\obj\Debug\net8.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\API\obj\Debug\net8.0\API.AssemblyInfoInputs.cache
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\API\obj\Debug\net8.0\API.AssemblyInfo.cs
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\API\obj\Debug\net8.0\API.csproj.CoreCompileInputs.cache
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\API\obj\Debug\net8.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\API\obj\Debug\net8.0\staticwebassets\msbuild.build.API.props
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\API\obj\Debug\net8.0\scopedcss\bundle\API.styles.css
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\API\obj\Debug\net8.0\API.csproj.Up2Date
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\API\obj\Debug\net8.0\API.dll
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\API\obj\Debug\net8.0\refint\API.dll
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\API\obj\Debug\net8.0\API.pdb
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\API\obj\Debug\net8.0\API.genruntimeconfig.cache
+C:\Users\super\Downloads\Edutrack_Login_Register\Edutrack_Login_Register\API\obj\Debug\net8.0\ref\API.dll
+D:\Edutrack_Login_Register\Edutrack_Login_Register\API\obj\Debug\net8.0\API.dll
+D:\Edutrack_Login_Register\Edutrack_Login_Register\API\obj\Debug\net8.0\refint\API.dll
+D:\Edutrack_Login_Register\Edutrack_Login_Register\API\obj\Debug\net8.0\API.pdb
+D:\Edutrack_Login_Register\Edutrack_Login_Register\API\bin\Debug\net8.0\appsettings.Development.json
+D:\Edutrack_Login_Register\Edutrack_Login_Register\API\bin\Debug\net8.0\appsettings.json
+D:\Edutrack_Login_Register\Edutrack_Login_Register\API\bin\Debug\net8.0\API.exe
+D:\Edutrack_Login_Register\Edutrack_Login_Register\API\bin\Debug\net8.0\API.deps.json
+D:\Edutrack_Login_Register\Edutrack_Login_Register\API\bin\Debug\net8.0\API.runtimeconfig.json
+D:\Edutrack_Login_Register\Edutrack_Login_Register\API\bin\Debug\net8.0\API.dll
+D:\Edutrack_Login_Register\Edutrack_Login_Register\API\bin\Debug\net8.0\API.pdb
+D:\Edutrack_Login_Register\Edutrack_Login_Register\API\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Edutrack_Login_Register\Edutrack_Login_Register\API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Edutrack_Login_Register\Edutrack_Login_Register\API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Edutrack_Login_Register\Edutrack_Login_Register\API\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\Edutrack_Login_Register\Edutrack_Login_Register\API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Edutrack_Login_Register\Edutrack_Login_Register\API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Edutrack_Login_Register\Edutrack_Login_Register\API\bin\Debug\net8.0\Npgsql.dll
+D:\Edutrack_Login_Register\Edutrack_Login_Register\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Edutrack_Login_Register\Edutrack_Login_Register\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Edutrack_Login_Register\Edutrack_Login_Register\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Edutrack_Login_Register\Edutrack_Login_Register\API\bin\Debug\net8.0\Repositories.dll
+D:\Edutrack_Login_Register\Edutrack_Login_Register\API\bin\Debug\net8.0\Repositories.pdb
+D:\Edutrack_Login_Register\Edutrack_Login_Register\API\obj\Debug\net8.0\API.csproj.AssemblyReference.cache
+D:\Edutrack_Login_Register\Edutrack_Login_Register\API\obj\Debug\net8.0\API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Edutrack_Login_Register\Edutrack_Login_Register\API\obj\Debug\net8.0\API.AssemblyInfoInputs.cache
+D:\Edutrack_Login_Register\Edutrack_Login_Register\API\obj\Debug\net8.0\API.AssemblyInfo.cs
+D:\Edutrack_Login_Register\Edutrack_Login_Register\API\obj\Debug\net8.0\API.csproj.CoreCompileInputs.cache
+D:\Edutrack_Login_Register\Edutrack_Login_Register\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cs
+D:\Edutrack_Login_Register\Edutrack_Login_Register\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cache
+D:\Edutrack_Login_Register\Edutrack_Login_Register\API\obj\Debug\net8.0\staticwebassets.build.json
+D:\Edutrack_Login_Register\Edutrack_Login_Register\API\obj\Debug\net8.0\staticwebassets.development.json
+D:\Edutrack_Login_Register\Edutrack_Login_Register\API\obj\Debug\net8.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Edutrack_Login_Register\Edutrack_Login_Register\API\obj\Debug\net8.0\staticwebassets\msbuild.build.API.props
+D:\Edutrack_Login_Register\Edutrack_Login_Register\API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+D:\Edutrack_Login_Register\Edutrack_Login_Register\API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API.props
+D:\Edutrack_Login_Register\Edutrack_Login_Register\API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Edutrack_Login_Register\Edutrack_Login_Register\API\obj\Debug\net8.0\scopedcss\bundle\API.styles.css
+D:\Edutrack_Login_Register\Edutrack_Login_Register\API\obj\Debug\net8.0\API.csproj.Up2Date
+D:\Edutrack_Login_Register\Edutrack_Login_Register\API\obj\Debug\net8.0\API.genruntimeconfig.cache
+D:\Edutrack_Login_Register\Edutrack_Login_Register\API\obj\Debug\net8.0\ref\API.dll
