@@ -13,8 +13,8 @@
 <script src="https://kendo.cdn.telerik.com/2023.3.1010/js/pdfjs.min.js"></script> *@
 
 <div class="container mt-4">
-    <div id="menu" class="mb-3"  style="width: 80vw;></div>
-    <div class="card shadow-lg">
+    <div id="menu" class="mb-3" style="width: 80vw;></div>
+    <div class=" card shadow-lg">
         <div class="card-header bg-primary text-white text-center">
             <h2 class="mb-0">All Uploaded Materials</h2>
         </div>
@@ -119,7 +119,9 @@
 </script>
 
 <!-- ✅ Bootstrap Modal for Viewing PDFs -->
-<div class="modal fade" id="pdfModal" tabindex="-1" aria-labelledby="pdfModalLabel" aria-hidden="true">
+<div class="modal fade" id="pdfModal" tabindex="-1" aria-labelledby="pdfModalLabel" aria-hidden="true"
+    data-bs-backdrop="false" data-bs-keyboard="true" style="margin-top: 20px;">
+
     <div class="modal-dialog modal-lg">
         <div class="modal-content">
             <div class="modal-header">

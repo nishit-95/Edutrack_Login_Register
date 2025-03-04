@@ -45,18 +45,18 @@ public class HomeController : Controller
         return RedirectToAction("Index", "Home");
     }
 
-     public IActionResult Feedback()
+    public IActionResult Feedback()
     {
         return View();
     }
-     public IActionResult Timetable()
+    public IActionResult Timetable()
     {
         return View();
     }
     public IActionResult Material()
-{
-    return View();
-}
+    {
+        return View();
+    }
 
     public IActionResult UpdateTeacher()
     {

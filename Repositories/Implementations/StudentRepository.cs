@@ -341,15 +341,6 @@ namespace Repositories.Implementations
             {
                 await _conn.CloseAsync();
             }
-
         }
-
-
-
-
     }
-
-
-
-
 }
