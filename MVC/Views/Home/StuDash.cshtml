@@ -7,48 +7,49 @@
     <div id="chart" style="width: 100%;"></div>
 </div>
 <script>
-    $(document).ready(function () {
-        $.ajax({
-            url: "http://localhost:5113/api/StudentApi/GetByStudent/4",
-            type: "GET",
-            success: function (response) {
-                console.log("API Response:", response);
+    function chart(id) {
+        $(document).ready(function () {
+            $.ajax({
+                url: `http://localhost:5113/api/StudentApi/GetByStudent/${id}`,
+                type: "GET",
+                success: function (response) {
+                    console.log("API Response:", response);
 
-                // Initialize Kendo Chart
-                $("#chart").kendoChart({
-                    title: {
-                        text: "Syllabus Completion Progress"
-                    },
-                    dataSource: {
-                        data: response
-                    },
-                    series: [{
-                        type: "bar",
-                        field: "completionPercentage",
-                        categoryField: "topic",
-                        name: "Completion %"
-                    }],
-                    categoryAxis: {
-                        labels: {
-                            rotation: -45
+                    // Initialize Kendo Chart
+                    $("#chart").kendoChart({
+                        title: {
+                            text: "Syllabus Completion Progress"
+                        },
+                        dataSource: {
+                            data: response
+                        },
+                        series: [{
+                            type: "bar",
+                            field: "completionPercentage",
+                            categoryField: "topic",
+                            name: "Completion %"
+                        }],
+                        categoryAxis: {
+                            labels: {
+                                rotation: -45
+                            }
+                        },
+                        valueAxis: {
+                            max: 100,
+                            title: { text: "Completion (%)" }
+                        },
+                        tooltip: {
+                            visible: true,
+                            format: "{0}%"
                         }
-                    },
-                    valueAxis: {
-                        max: 100,
-                        title: { text: "Completion (%)" }
-                    },
-                    tooltip: {
-                        visible: true,
-                        format: "{0}%"
-                    }
-                });
-            },
-            error: function (xhr) {
-                console.log("Error fetching data", xhr);
-            }
+                    });
+                },
+                error: function (xhr) {
+                    console.log("Error fetching data", xhr);
+                }
+            });
         });
-    });
-
+    }
 </script>
 
 
@@ -117,10 +118,11 @@
 
                 if (response && response.success && response.studentId) {
                     fetchUserDetails(response.studentId);
+                    chart(response.studentId); // Fallback to default ID if no studentId is returned
                     // Use the studentId from the response
                 } else {
                     console.log("No student ID found in response, using default ID 18");
-                    fetchUserDetails(5); // Fallback to default ID if no studentId is returned
+                    fetchUserDetails(5);
                 }
             },
             error: function (xhr, status, error) {
