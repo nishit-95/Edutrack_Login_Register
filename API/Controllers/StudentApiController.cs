@@ -144,6 +144,25 @@ namespace API.Controllers
             return NotFound(new { success = false, message = result.message });
         }
 
+        [HttpGet]
+        [Route("GetStudentIdByUserId")]
+        public async Task<IActionResult> GetStudentIdByUserId()
+        {
+            int userID = (int)HttpContext.Session.GetInt32("UserId");
+            System.Console.WriteLine(userID + "uuseid hai");
+            int studentId = await _student.GetStudentIdByUserId(userID);
+            if (studentId > 0)
+            {
+                System.Console.WriteLine(studentId + "student hai");
+
+                return Ok(new { success = true, studentId });
+            }
+            else
+            {
+                return BadRequest(new { success = false, message = "Student not found for this UserId" });
+            }
+        }
+
 
     }
 

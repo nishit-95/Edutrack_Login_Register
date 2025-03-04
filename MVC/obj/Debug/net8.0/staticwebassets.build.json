@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "eckpCKK5zY0WudL/oJvHcn9Ga2aCWiDNj5chSZjcFLY=",
+  "Hash": "TivqxDNf9nhB12NaNgee0Ri9RF47i2OyYX4pEJjnaco=",
   "Source": "MVC",
   "BasePath": "_content/MVC",
   "Mode": "Default",
@@ -1611,6 +1611,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\student_images\\nency@gmail.com.jpg"
+    },
+    {
+      "Identity": "D:\\Edutrack_Login_Register\\Edutrack_Login_Register\\MVC\\wwwroot\\student_images\\nishit@gmail.com.jpg",
+      "SourceId": "MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Edutrack_Login_Register\\Edutrack_Login_Register\\MVC\\wwwroot\\",
+      "BasePath": "_content/MVC",
+      "RelativePath": "student_images/nishit@gmail.com.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\student_images\\nishit@gmail.com.jpg"
     },
     {
       "Identity": "D:\\Edutrack_Login_Register\\Edutrack_Login_Register\\MVC\\wwwroot\\UploadedMaterials\\103a9e10-16d7-4a7b-8cc5-fb67d19869c0_Kendo UI Controls for MVC with AJAX 4.pdf",

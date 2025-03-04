@@ -349,6 +349,10 @@
       "PackagePath": "staticwebassets\\student_images\\nency@gmail.com.jpg"
     },
     {
+      "Id": "D:\\Edutrack_Login_Register\\Edutrack_Login_Register\\MVC\\wwwroot\\student_images\\nishit@gmail.com.jpg",
+      "PackagePath": "staticwebassets\\student_images\\nishit@gmail.com.jpg"
+    },
+    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MVC.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },

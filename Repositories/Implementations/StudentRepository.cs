@@ -24,7 +24,7 @@ namespace Repositories.Implementations
             }
             try
             {
-                string query = @"SELECT * FROM t_student WHERE c_user_id = @id";
+                string query = @"SELECT * FROM t_student WHERE c_student_id = @id";
                 using (var cmd = new NpgsqlCommand(query, _conn))
                 {
                     cmd.Parameters.AddWithValue("id", id);
@@ -166,6 +166,7 @@ namespace Repositories.Implementations
         }
         public async Task<int> GetStudentIdByUserId(int userId)
         {
+            System.Console.WriteLine(userId + "usedid from function");
             int studentId = 0;
             string query = @"SELECT c_student_id FROM t_student WHERE c_user_id = @id";
             await _conn.OpenAsync();
@@ -180,6 +181,7 @@ namespace Repositories.Implementations
 
             }
             await _conn.CloseAsync();
+            System.Console.WriteLine(studentId + "student id from function");
             return studentId;
         }
 
