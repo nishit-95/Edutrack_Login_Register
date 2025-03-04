@@ -56,7 +56,7 @@
 
     $(document).ready(function () {
         @* var userId = HttpContext.Session.GetInt32("StudentId"); *@
-            fetchUserDetails(4);
+            fetchUserDetails(1);
 
     });
 
@@ -72,7 +72,7 @@
                     let student = data.student;
                     let profileTemplate = `
                         <div style="text-align: center; padding: 20px;">
-                            <img id="userImage" src="../../student_image/${student.image ? student.image : 'default-avatar.png'}" 
+                            <img id="userImage" src="../../student_images/${student.image ? student.image : 'default-avatar.png'}" 
                                  alt="User Image" width="auto" height="auto" style="border-radius: 50%;">
                             <h3>${student.fullName}</h3>
                             <p class="text-muted">ID: ${student.studentId}</p>
